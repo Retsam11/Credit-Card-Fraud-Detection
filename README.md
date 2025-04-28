@@ -1,4 +1,12 @@
 # Credit-Card-Fraud-Detection
+
+## 📂 Dataset
+
+This project uses a publicly available dataset from Kaggle:  
+👉 [Credit Card Fraud Detection Dataset on Kaggle](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
+
+Please download the dataset manually from Kaggle and upload it into the notebook when prompted.
+
 This notebook demonstrates how to detect credit card fraud by building, selecting, and evaluating machine learning models, with fast experimentation using PyCaret.
 It also includes fraud analysis based on transaction categories and gender distribution.
 
